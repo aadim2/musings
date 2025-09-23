@@ -6,7 +6,7 @@ excerpt: "A short reflection on living notes: pruning, composting, and harvestin
 slug: notes-as-a-garden
 draft: false
 ___
-Riding bikes has been a slice of my identity for the past two years and change. I've spent most of that time on my college campus, where the desire to ride different bikes on different terrains is supplanted by the need to have precisely one working commuter at all times. I'm only really a cyclist during breaks when I leap back home—a weekend here, a month there—into the arms of car-centric suburban paradise. For a few precious weeks each year, no longer enslaved by the need to ride, I'm free to explore the want to ride. 
+Riding bikes has been a slice of my identity for the past two years and change. I've spent most of that time on my college campus, where the desire to ride different bikes on different terrains is supplanted by the need to have precisely one working commuter at all times. I'm only really a cyclist during breaks when I leap back home—a weekend here, a month there—into the arms of car-centric suburban paradise. Fr a few precious weeks each year, no longer enslaved by the need to ride, I'm free to explore the want to ride. 
 
 Even when I'm home, between homework, family, personal projects, and rest, I have precious few hours to spend with bikes. But, for some reason, I often spend more time tinkering in my garage than I do riding. Before a ride, I sit around, dreaming up changes I could make, parts I could optimize—could my brakes use a bleed? would that parts bin derailleur work with that cassette? is my sag right? what if I tried friction again? Then I head to the garage, spend a couple hours on my latest harebrained scheme, and before I know it, it's too dark or cold or close to dinnertime to ride. 
 
